@@ -2,7 +2,7 @@ body{
     text-align: center;
     margin: 50px 20px;
     font-family: Tamoha, sans-serif;
-    background-image: linear-gradient(to top, #67E667, #6A48D7);
+    background-image: white;
     background-repeat: no-repeat;
     height: 100vh;
 }
